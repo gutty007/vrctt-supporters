@@ -2,7 +2,8 @@
 # format-version: 1
 # columns: displayName<TAB>level<TAB>skinId
 # level: 1 = Supporter / 2 = Sponsor
-# skinId: "-" = none
+# skinId: "-" = none. comma separated when multiple.
+# one row per display name. matching is case-insensitive and trimmed.
 # lines starting with "#" are comments. empty lines are ignored.
-# generated: 2026-09-20T00:00:00Z (placeholder - automation not enabled yet)
-VRCTT_TestUser	1	-
+# count: 0
+# generated: 2026-09-20T17:59:54.465Z
