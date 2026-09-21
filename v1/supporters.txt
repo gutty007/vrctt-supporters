@@ -6,7 +6,7 @@
 # one row per display name. matching is case-insensitive and trimmed.
 # lines starting with "#" are comments. empty lines are ignored.
 # count: 3
-# generated: 2026-09-21T18:11:50.192Z
+# generated: 2026-09-21T18:14:36.263Z
 荒川れぃ	Sponsor2
-Gutty_007	Sponsor
 ikasurumeeeeee	Sponsor
+やなぎぃ_	Sponsor
