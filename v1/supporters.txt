@@ -1,10 +1,10 @@
 # VRC Table Tennis - supporters list
 # format-version: 1
-# columns: displayName<TAB>level<TAB>skinId
-# level: 1 = Supporter / 2 = Sponsor
-# skinId: "-" = none. comma separated when multiple.
+# columns: displayName<TAB>tier
+# tiers (low to high): Supporter < Sponsor < Sponsor2
+# grouped by tier, highest first. names ascending within a group.
 # one row per display name. matching is case-insensitive and trimmed.
 # lines starting with "#" are comments. empty lines are ignored.
 # count: 1
-# generated: 2026-09-20T18:18:55.116Z
-Gutty_007	2	-
+# generated: 2026-09-21T07:43:06.579Z
+Gutty_007	Sponsor
