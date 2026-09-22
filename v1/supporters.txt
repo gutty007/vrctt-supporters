@@ -5,8 +5,9 @@
 # grouped by tier, highest first. names ascending within a group.
 # one row per display name. matching is case-insensitive and trimmed.
 # lines starting with "#" are comments. empty lines are ignored.
-# count: 3
-# generated: 2026-09-22T08:06:56.722Z
+# count: 4
+# generated: 2026-09-22T09:51:51.371Z
+rinrin6006	Sponsor2
 Sparklizm	Sponsor2
 Gutty_007	Sponsor
 Kioumi 92b6	Sponsor
