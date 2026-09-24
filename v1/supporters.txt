@@ -5,10 +5,11 @@
 # grouped by tier, highest first. names ascending within a group.
 # one row per display name. matching is case-insensitive and trimmed.
 # lines starting with "#" are comments. empty lines are ignored.
-# count: 11
-# generated: 2026-09-24T09:38:24.368Z
+# count: 12
+# generated: 2026-09-24T21:22:26.633Z
 rinrin6006	Sponsor2
 Kioumi 92b6	Sponsor
+takaniso	Sponsor
 ちかちゃん	Sponsor
 ひたけん1114	Sponsor
 ゆきづき	Sponsor
